@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section>
+        <h1>Product Catalog</h1>
+        <ul>
+            <li><a href="#electronicsid">Electronics</a></li>
+            <li><a href="#clothingid">Clothing</a></li>
+            <li><a href="#homeid">Home</a></li>
+        </ul>
+
+    </section>
+
+    <section id="electronicsid">
+        <h2>Electronics</h2>
+        <section>
+        <h3>Laptop</h3>
+        <table>
+            <tr>
+                <td>
+                    <b>Description:</b> High-performance laptop with the latest processor and ample storage.
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price:</b> &#36;999.99
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <b>Availability:</b> In stock
+                </td>
+            </tr>
+        </table>
+        <img src="th.jpg" >
+    </br>
+        <a href="">View Details</a>
+      
+            <ul>
+                <li><b>Brand:</b> XYZ Electronics</li>
+                <li><b>Screen Size:</b> 15.6 inches</li>
+                <li><b>RAM:</b> 8GB</li>
+                <li><b>Storage:</b> 512GB SSD</li>
+            </ul>
+        
+    </section>
+    <section>
+        <h3>Smartphone</h3>
+        <table>
+            <tr>
+                <td>
+                    <b>Description:</b> Feature-rich smartphone with a high-resolution display and advanced camera.
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price:</b> &#36;699.99
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <b>Availability:</b> Out of Stock
+                </td>
+            </tr>
+        </table>
+        <img src="th 1.jpg" >
+    </br>
+        <a href="">View Details</a>
+        
+            <ul>
+                <li><b>Brand:</b> Iphone 14</li>
+                <li><b>Screen Size:</b> 6.5 inches</li>
+                <li><b>Camera:</b> 48MP + 12MP</li>
+                <li><b>Storage:</b> 128GB</li>
+            </ul>
+      
+    </section>
+    </section>
+
+    <section id="clothingid">
+        <h2>Clothing</h2>
+        <section>
+        <h3>T-Shirt</h3>
+        <table>
+            <tr>
+                <td>
+                    <b>Description:</b> Casual and comfortable t-shirt made from premium quality cotton.
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price:</b> &#36;19.99
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <b>Availability:</b> In stock
+                </td>
+            </tr>
+        </table>
+        <img src="th1.jpg" >
+    </br>
+        <a href="">View Details</a>
+       
+            <ul>
+                <li><b>Brand:</b> Fashion Apparel</li>
+                <li><b>Color:</b> Black</li>
+                <li><b>Size:</b> M,L</li>
+                <li><b>Material:</b> 100% Cotton</li>
+            </ul>
+       
+    </section>
+    <section>
+        <h3>Jeans</h3>
+        <table>
+            <tr>
+                <td>
+                    <b>Description:</b> Classic jeans with a slim fit and stylish design.
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price:</b> &#36;49.99
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <b>Availability:</b> In Stock
+                </td>
+            </tr>
+        </table>
+        <img src="th2.png" height="200px" width="200px" >
+    </br>
+        <a href="">View Details</a>
+       
+            <ul>
+                <li><b>Brand:</b> Denim Co.</li>
+                <li><b>Color:</b> Blue</li>
+                <li><b>Size:</b> 30, 32, 34</li>
+                <li><b>Material:</b> Denim</li>
+            </ul>
+       
+    </section>
+    </section>
+
+    <section id="homeid">
+        <h2>Home</h2>
+        <section>
+        <h3>Table Lamp</h3>
+        <table>
+            <tr>
+                <td>
+                    <b>Description:</b> Modern and stylish table lamp to enhance your home decoration.
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price:</b> &#36;39.99
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <b>Availability:</b> In stock
+                </td>
+            </tr>
+        </table>
+        <img src="th2.jpg" >
+    </br>
+        <a href="">View Details</a>
+        
+            <ul>
+                <li><b>Brand:</b> Home Essentials</li>
+                <li><b>Color:</b> White</li>
+                <li><b>Dimensions:</b> 12 inches (height)</li>
+                <li><b>Material:</b> Ceramic, Metal</li>
+            </ul>
+        
+    </section>
+    <section>
+        <h3>Throw Pillow</h3>
+        <table>
+            <tr>
+                <td>
+                    <b>Description:</b> Soft and comfortable throw pillow for your living room or bedroom.
+                </td>
+            </tr>
+            <tr>
+                <td><b>Price:</b> &#36;24.99
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <b>Availability:</b> In Stock
+                </td>
+            </tr>
+        </table>
+        <img src="th3.jpg" >
+    </br>
+        <a href="">View Details</a>
+      
+            <ul>
+                <li><b>Brand:</b> Cozy Home</li>
+                <li><b>Color:</b> Gray</li>
+                <li><b>Dimensions:</b> 18 x 18 inches </li>
+                <li><b>Material:</b> Cotton, Polyester</li>
+            </ul>
+        
+    </section>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Product Catalog . All rights reserved.</p>
+    </footer>
+
+   
+    
+    
+</body>
+</html>
