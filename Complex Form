@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Complex Form</h2>
+    <fieldset>
+        <legend>Personal Information</legend>
+        <label for="nameid">Name</label>
+        <input type="text" name="name" id="nameid">
+        <label for="emailid">Email</label>
+        <input type="email" name="email" id="emailid">
+        <label for="phonenum">Phone</label>
+        <input type="tel" name="phone" id="phonenum">
+        <label for="dob1">Date of Birth</label>
+        <input type="date" name="date" id="dob1">
+        <span>Gender:</span>
+        <label for="maleid">Male</label>
+        <input type="radio" name="radio" id="maleid">
+        <label for="femaleid">Female</label>
+        <input type="radio" name="radio" id="femaleid">
+        <label for="country1">Country</label>
+        <select type="country" id="country1">
+            <option value="India">India</option>
+            <option value="unitedstates">United States</option>
+            <option value="china">China</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <legend>Address</legend>
+        <label for="addid">Street</label>
+        <input type="text" name="address" id="addid">
+        <label for="cityid">City</label>
+        <input type="text" name="city" id="cityid">
+        <label for="stateid">State</label>
+        <input type="text" name="state" id="stateid">
+        <label for="zipid">Zip Code</label>
+        <input type="tel" name="zipc" id="zipid">
+
+    </fieldset>
+    <fieldset>
+        <legend>Other Information</legend>
+        <lable for="commentid">Comments</lable>
+        <textarea name="comments" id="commentid" cols="30" rows="10"></textarea>
+        <br/>
+        <label for="checkboxid">I agree to the terms of service</label>
+        <input type="checkbox" name="checkbox" id="checkboxid">
+    </fieldset>
+    
+    <input type="button" value="Submit">
+</body>
+</html>
