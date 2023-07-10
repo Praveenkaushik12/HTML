@@ -1,0 +1,203 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> 
+        <h1>Welcome to Codehelp</h1>
+    </header>
+    <table>
+        <tr>
+            <td>
+                <img src="ch.jpg" height="100px" width="50px">
+            </td>
+            <td>
+                <nav>
+                   <ul>
+                    <li>
+                    <a href="#roadmapid">Roadmap Videos</a>
+                    </li>
+                    <li><a href="#osvideosid">OS Videos</a></li>
+                    <li><a href="#dbmsid">DBMS Videos</a></li>
+                    <li><a href="#dsavideosid">DSA Videos</a></li>
+                    <li><a href="#webid">Web Development Videos</a></li>
+                   </ul>
+                </nav>
+            </td>
+        </tr>
+    </table>  
+
+    <section>
+        <h2>About Codehelp</h2> 
+        <p>Code Help was founded in 2020 by Love Babbar (Ex-Amazon, Ex-Microsoft) to deliver “to the point, short and practical” educational content 
+            for learning programming, coding, and preparing for job placements, and interviews.He has been mentoring students through his Youtube channel
+            which has now gained more than 17 million views and is now looking forward to providing his guidance in different courses through Code Help.  
+        </p>
+    </section>
+   <main>
+    <section>
+        <h2>Additional Media</h2>
+        <table>
+            <tr>
+                <td><audio src="theme.mp3" controls></audio></td>
+                <td><video src="arash.mp4" heigth="200px" width="200px" controls></video></td>
+            </tr>
+        </table>
+    </section>
+    <section id="roadmapid">
+        <h2>Roadmap Videos</h2>
+        <table>
+            <tr>
+                <td>
+                <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k?autoplay=1" ></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+            </tr>,,
+        </table>
+    </section>
+    <section id="osvideosid">
+        <h2>OS Videos</h2>
+        <table>
+            <tr>
+                <td>
+                <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+            </tr>,,
+        </table>
+    </section>
+    
+    <section id="dbmsid">
+        <h2>DBMS Videos</h2>
+        <table>
+            <tr>
+                <td>
+                <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+            </tr>,,
+        </table>
+    </section>
+    
+    <section id="dsavideosid">
+        <h2>DSA Videos</h2>
+        <table>
+            <tr>
+                <td>
+                <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+            </tr>,,
+        </table>
+    </section>
+    
+    <section id="webid">
+        <h2>Web Development Videos</h2>
+        <table>
+            <tr>
+                <td>
+                <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k" ></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+                <td>
+    <iframe src="https://www.youtube.com/embed/S4wKoTXyl3k"></iframe>
+                </td>
+            </tr>,,
+        </table>
+    </section>
+   </main>
+<footer>
+    <p>&copy; 2023 ModernMeraki. All rights reserved.</p>
+</footer>
+
+
+
+
+
+
+
+    
+    
+</body>
+</html>
